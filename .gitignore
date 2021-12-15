@@ -1,3 +1,6 @@
+snyk-token.yaml
+terraform/.terraform/**
+
 .DS_Store
 node_modules
 *.sock
