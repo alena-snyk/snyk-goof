@@ -1,5 +1,6 @@
 snyk-token.yaml
-# terraform/.terraform/**
+terraform/.terraform/**
+**/.dccache
 
 .DS_Store
 node_modules
